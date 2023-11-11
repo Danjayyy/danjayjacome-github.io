@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webography Project</title>
+    <style>
+        body {
+            background-color: #a7cde9;
+            font-family: 'Times New Roman', sans-serif;
+            color: #092a44;
+            text-align: center;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        h2 {
+            font-size: 24px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            display: inline;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <p style="font-weight: bold; font-size: 48px;">Webography Project</p>
+    <p>Danjay Jacome</p>
+    <p>CSIT100 27</p>
+    <p>08 November 2023</p>
+    <hr />
+
+    <h2>People and Technology: Pros and Cons</h2>
+    <ul>
+        <li><a href="subtopic1.html">Subtopic 1</a></li>
+        <li><a href="subtopic2.html">Subtopic 2</a></li>
+        <li><a href="subtopic3.html">Subtopic 3</a></li>
+    </ul>
+
+    <p><a href="paper.doc">Link to Paper</a></p>
+    <p><a href="https://montclair0-my.sharepoint.com/:p:/g/personal/jacomed1_montclair_ed
